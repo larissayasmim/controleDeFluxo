@@ -33,7 +33,7 @@
 ## 🔢 &nbsp; Execução
 <img align="center" height="auto" width="800" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1718672807/controleDeFluxo/Grava%C3%A7%C3%A3o_de_tela_de_17-06-2024_21_57_06_online-video-cutter.com_1_e6sdwd.gif"/>
 <br>
-<img align="center" height="auto" width="800" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1718672539/controleDeFluxo/Grava%C3%A7%C3%A3o_de_tela_de_17-06-2024_21_59_13_online-video-cutter.com_d0m0t0.gif"/>
+<img align="center" height="auto" width="800" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1718673353/controleDeFluxo/Grava%C3%A7%C3%A3o_de_tela_de_17-06-2024_21_59_13_online-video-cutter.com_1_brfefo.gif"/>
 <br>
 
 ## :computer:  &nbsp; Tecnologias
