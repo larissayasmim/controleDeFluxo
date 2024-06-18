@@ -22,15 +22,15 @@
 - Se o primeiro valor for maior que o segundo, lança uma exceção.
 <br>
 
-## 🏦 &nbsp; Recebe dois números inteiros via terminal e imprime o número de iterações com base na diferença entre eles
+## 🔢 &nbsp; Recebe dois números inteiros via terminal e imprime o número de iterações com base na diferença entre eles
 <img align="center" height="auto" width="600" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1718671477/controleDeFluxo/Captura_de_tela_de_2024-06-17_21-43-01_ceub9p.png"/>
 <br>
 
-## 🏦 &nbsp; Se o primeiro valor for maior que o segundo, lança uma exceção
+## 🔢 &nbsp; Se o primeiro valor for maior que o segundo, lança uma exceção
 <img align="center" height="auto" width="800" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1718671466/controleDeFluxo/Captura_de_tela_de_2024-06-17_21-43-46_c0xs66.png"/>
 <br>
 
-## 🏦 &nbsp; Execução
+## 🔢 &nbsp; Execução
 <img align="center" height="auto" width="800" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1718672807/controleDeFluxo/Grava%C3%A7%C3%A3o_de_tela_de_17-06-2024_21_57_06_online-video-cutter.com_1_e6sdwd.gif"/>
 <br>
 <img align="center" height="auto" width="800" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1718672539/controleDeFluxo/Grava%C3%A7%C3%A3o_de_tela_de_17-06-2024_21_59_13_online-video-cutter.com_d0m0t0.gif"/>
@@ -40,3 +40,13 @@
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - Java
+- Git
+- GitHub Codespace
+
+<br>
+
+<br>
+---
+
+**[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/larissayasmimpa)** <span>&#x1f1e7;&#x1f1f7;</span>
+
