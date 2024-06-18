@@ -14,10 +14,10 @@ public class Contador {
         int parametroDois = scanner.nextInt();
 
         contar(parametroUm, parametroDois);
-    }
+        }
     catch (ParametrosInvalidosException e) {
         System.out.println(e.getMessage());
-    }
+        }
     }
 
     public static void contar (int parametroUm, int parametroDois) throws ParametrosInvalidosException
